@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[intact fidgeting]]></title>
         <description><![CDATA[intact fidgeting]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/intact-fidgeting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 16:46:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Jul 2016 16:46:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/intact-fidgeting/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d7de1f2-5d22-4075-8d2b-c19de1b93545.jpg">]]></description>
+            <link>https://thegrid.ai/intact-fidgeting/facdb15d-6997-4e5c-bbb9-57d42b5c7375/index.html</link>
+            <guid isPermaLink="false">facdb15d-6997-4e5c-bbb9-57d42b5c7375</guid>
+            <pubDate>Fri, 01 Jul 2016 16:46:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b327d7b0-3350-43c8-918d-4e89862da7ae.jpg">]]></description>
-            <link>undefinedf6cdd047-84e3-4e0d-82ec-11aaf8fbac16/index.html</link>
+            <link>https://thegrid.ai/intact-fidgeting/f6cdd047-84e3-4e0d-82ec-11aaf8fbac16/index.html</link>
             <guid isPermaLink="false">f6cdd047-84e3-4e0d-82ec-11aaf8fbac16</guid>
             <pubDate>Fri, 01 Jul 2016 16:46:14 GMT</pubDate>
         </item>
